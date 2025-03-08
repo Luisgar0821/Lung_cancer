@@ -72,7 +72,7 @@
 First, clone the repository from GitHub using the following command:
 
 ```bash
-git clone https://github.com/Luisgar0821/Lung_cancer
+git clone https://github.com/Luisgar0821/Lung_cancer_prediction
 ```
 
 ### 🖥️ Opening in Visual Studio Code
