@@ -99,4 +99,4 @@ Open the cloned repository in **Visual Studio Code**. We recommend selecting the
 
 Finally, simply execute the notebook **cell by cell**. The notebook will handle the **creation of the database and tables** as well as the **ingestion of relevant data**. 🚀📊
 
-### Run the project
+
