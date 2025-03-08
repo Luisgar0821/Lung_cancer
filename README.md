@@ -102,6 +102,6 @@ Finally, simply execute the notebook **cell by cell**. The notebook will handle 
 ## 🎥 Recording
 
 For a step-by-step walkthrough, check out the recording 📹 at the following link:
-👉 [Watch Here](https://drive.google.com/file/d/1heBP02GU1YewrKEyDIZ288bnF6r75a8d/view?usp=drive_link)
+👉 [Watch Here](https://drive.google.com/file/d/1heBP02GU1YewrKEyDIZ288bnF6r75a8d/view?usp=sharing)
 
 
